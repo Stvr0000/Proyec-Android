@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "769151218497",
+    "project_id": "umgkmauth",
+    "storage_bucket": "umgkmauth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769151218497:android:e2f8dc000c0d2ae18827c0",
+        "android_client_info": {
+          "package_name": "com.KM.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk1jiIyQWpZF3lJBhVNS7IIvZYVT33jfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769151218497:android:7993144e2c64aca78827c0",
+        "android_client_info": {
+          "package_name": "com.km.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk1jiIyQWpZF3lJBhVNS7IIvZYVT33jfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
